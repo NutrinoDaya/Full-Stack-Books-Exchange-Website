@@ -1,0 +1,14 @@
+.main-container {
+    text-align: center;
+    padding: 50px;
+}
+
+.main-container h1 {
+    color: #333;
+    font-size: 36px;
+    margin-bottom: 20px;
+}
+
+.main-container h1 span {
+    color: #007bff;
+}
